@@ -32,7 +32,7 @@ body{
   min-height: 100vh;
 }
 .container{
-  width: clamp(30rem,90%,60rem);
+  width: clamp(30rem,90%,55rem);
   min-height: 30rem;
   padding: clamp(2.5rem,3vw,3rem)  clamp(2.5rem,3vw,3rem)  12rem;
   border-radius: 1rem;
